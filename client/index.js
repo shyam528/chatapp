@@ -72,10 +72,7 @@ class Main extends React.Component {
     this.forceUpdate()
   }
 
-  /**
-   * When a message is sent, send the message to the server
-   * and store it in this component's state.
-   */
+  
   render() {
     return (
       <View style={styles.container}>
